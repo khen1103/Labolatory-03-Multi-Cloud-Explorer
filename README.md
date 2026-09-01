@@ -30,3 +30,26 @@ Laboratory Checkpoints
 6. Multi-Cloud Decision Matrix
 7. Continue Your Linux Investigation
 8. Mission Reflection
+
+Checkpoint 7 – Linux Server Investigation
+
+A Linux server environment was launched using the KillerCoda Playground. The server was investigated using Linux commands to identify its operating system, CPU information, memory, and disk space.
+
+Linux Commands Used
+```bash
+cat /etc/os-release
+lscpu
+free -h
+df -h
+
+Cloud Hosting Options
+If this Linux server were migrated to the cloud, it could be hosted using the following virtual machine services:
+| Cloud Provider        | Service                |
+| --------------------- | ---------------------- |
+| AWS                   | Amazon EC2             |
+| Microsoft Azure       | Azure Virtual Machines |
+| Google Cloud Platform | Compute Engine         |
+These services can host Linux-based virtual machines and provide computing resources for applications and workloads.
+
+Screenshot Evidence
+![KillerCoda Linux Terminal](screenshots/killercoda-terminal.png)
