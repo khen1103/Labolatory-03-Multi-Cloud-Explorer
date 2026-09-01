@@ -1,6 +1,6 @@
-# Laboratory 03 – Multi-Cloud Explorer
+Laboratory 03 – Multi-Cloud Explorer
 
-## CCM101 – Cloud Computing
+CCM101 – Cloud Computing
 
 This laboratory activity explores and compares three major cloud computing platforms:
 
@@ -10,7 +10,7 @@ This laboratory activity explores and compares three major cloud computing platf
 
 The purpose of this laboratory is to investigate their infrastructure, core services, advantages, use cases, and suitability for different business requirements.
 
-## Mission Objectives
+Mission Objectives
 
 * Explore major public cloud platforms.
 * Identify core cloud services.
@@ -20,7 +20,7 @@ The purpose of this laboratory is to investigate their infrastructure, core serv
 * Use Linux commands to investigate a cloud-ready server environment.
 * Document the results using Markdown.
 
-## Laboratory Checkpoints
+Laboratory Checkpoints
 
 1. Expand Your Cloud Portfolio
 2. Explore the Three Cloud Platforms
